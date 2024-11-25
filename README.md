@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 #
 #
-<img align="right" src="https://www.amritaclasses.com/assets/reviews/developers/developer1.jpg" alt="abhinav-dhangar" width="300" />
+<img align="right" src="https://media.graphassets.com/v6Dy34oDSF2MFvxIhZXz" alt="abhinav-dhangar" width="300" />
 
-##### 𝕏 : https://x.com/DhangarAbhinav
-##### linkedin : https://linkedin.com/in/abhinav-dhangar-area
+
